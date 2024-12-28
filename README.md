@@ -1,8 +1,9 @@
-## Product Gestor
-Uma api para gestão de produtos online.
-<hr>
-Aplicação construida com:<br>
- - NodeJS,
- - Express,
- - PostgreSQL,
+# Product Gestor <br>
+
+<span>uma api para gestão de produtos online. </span>
+---
+<strong>Aplicação construida com:</strong><br> 
+ - NodeJS
+ - Express
  - JWT
+ - PostgreSQL
