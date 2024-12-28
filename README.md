@@ -1,3 +1,8 @@
-## Api Para Gestão de Produtos
-> Esse projeto é parte da finalização do curso Geração Tech.
-
+## Product Gestor
+Uma api para gestão de produtos online.
+<hr>
+Aplicação construida com:<br>
+ - NodeJS,
+ - Express,
+ - PostgreSQL,
+ - JWT
